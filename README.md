@@ -59,9 +59,7 @@ Shows practical AI skills for social good
 👨‍💻 About Me:
 
 Tahsin Ahmed Rafi
-
 4th Year CSE Student, Premier University, Chattogram
-
 Passionate about AI/ML for low-resource languages and social impact.
 
 Made with ❤️ for Bangla NLP

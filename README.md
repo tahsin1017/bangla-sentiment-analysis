@@ -54,8 +54,10 @@ Live Gradio Demo available
 Works with Bangla language (very few tools exist for Bangla)
 Uses real data from a historic event in Bangladesh
 Shows practical AI skills for social good
-👨‍💻 About Me
-Tahsin Ahmed Rafi
+
+
+👨‍💻 About Me:
+Tahsin Ahmed Rafi|
 4th Year CSE Student, Premier University, Chattogram
 Passionate about AI/ML for low-resource languages and social impact.
 
